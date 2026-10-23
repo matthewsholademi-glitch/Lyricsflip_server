@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-380-r2-125-distributed-tracing-across-http-postgres",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-380-r2-125-distributed-tracing-across-http-postgres": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-380-r2-125-distributed-tracing-across-http-postgres",
+    "origin"
+  ]
+}
